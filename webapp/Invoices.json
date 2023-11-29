@@ -1,0 +1,74 @@
+{
+    "Invoices": [
+        {
+            "ProductName": "Lettuce",
+            "Quantity": 15,
+            "ExtendedPrice": 12.75,
+            "ShipperName": "Green Farms",
+            "ShippedDate": "2023-10-05T00:00:00",
+            "Status": "A",
+            "UnitPrice": 0.85,
+            "Discount": 0.05
+        },
+        {
+            "ProductName": "Tomatoes",
+            "Quantity": 8,
+            "ExtendedPrice": 6.40,
+            "ShipperName": "Fresh Produce",
+            "ShippedDate": "2023-09-20T00:00:00",
+            "Status": "B",
+            "UnitPrice": 0.80,
+            "Discount": 0.1
+        },
+        {
+            "ProductName": "Carrots",
+            "Quantity": 12,
+            "ExtendedPrice": 7.20,
+            "ShipperName": "Veggie World",
+            "ShippedDate": "2023-10-03T00:00:00",
+            "Status": "B",
+            "UnitPrice": 0.60,
+            "Discount": 0
+        },
+        {
+            "ProductName": "Broccoli",
+            "Quantity": 9,
+            "ExtendedPrice": 13.50,
+            "ShipperName": "Green Farms",
+            "ShippedDate": "2023-10-15T00:00:00",
+            "Status": "C",
+            "UnitPrice": 1.50,
+            "Discount": 0.15
+        },
+        {
+            "ProductName": "Cauliflower",
+            "Quantity": 6,
+            "ExtendedPrice": 10.50,
+            "ShipperName": "Veggie World",
+            "ShippedDate": "2023-09-29T00:00:00",
+            "Status": "A",
+            "UnitPrice": 1.75,
+            "Discount": 0.05
+        },
+        {
+            "ProductName": "Spinach",
+            "Quantity": 10,
+            "ExtendedPrice": 7.00,
+            "ShipperName": "Fresh Greens",
+            "ShippedDate": "2023-10-25T00:00:00",
+            "Status": "A",
+            "UnitPrice": 0.70,
+            "Discount": 0
+        },
+        {
+            "ProductName": "Zucchini",
+            "Quantity": 14,
+            "ExtendedPrice": 9.80,
+            "ShipperName": "Organic Veggies",
+            "ShippedDate": "2023-10-27T00:00:00",
+            "Status": "B",
+            "UnitPrice": 0.70,
+            "Discount": 0.1
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.vaibhavmojidra.unittestwithqunit",
+  "version": "1.0.0",
+  "description": "SAP UI5 Unit Testing using QUnit",
+  "main": "index.js",
+  "scripts": {
+    "start": "ui5 serve -o index.html",
+    "unittest": "ui5 serve -o test/unit/unitTests.qunit.html"
+  },
+  "author": "Vaibhav Mojidra",
+  "license": "ISC"
+}
