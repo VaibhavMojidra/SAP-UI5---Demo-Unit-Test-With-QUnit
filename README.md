@@ -19,6 +19,7 @@ Unit testing is an essential part of the software development process, and SAP U
   📄 Component.js
   📄 Invoices.json
   📄 manifest.json
+  📄 package.json
 ```
 
 ### Code Explaination
